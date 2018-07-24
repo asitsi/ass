@@ -1,0 +1,12 @@
+html, body {
+	
+	margin:0;
+	padding:0;
+}	
+
+#header{
+	width:auto;
+	padding:1% 1% 1% 2%;
+	background-image:"C:\Users\vishw\Desktop\my website\th (1).gif";
+	box-shadow: 1px 3px 8px 1px lightgrey;
+}

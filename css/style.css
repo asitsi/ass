@@ -1,0 +1,65 @@
+html, body {
+	
+	margin:0;
+	padding:0;
+}	
+
+#header{
+	width:auto;
+	padding:1% 1% 1% 2%;
+	background-color:blue;
+	box-shadow: 1px 3px 8px 1px lightgrey;
+}
+#header #title{
+	font-family:"open sans","segoe UI";
+	font-size:200%;
+	font-weight:lighter;
+	color:red;
+	text-decoration:none;
+	float:left;
+	margin-top:-1%;
+}
+#header #menu #menu-item{
+	color:white;
+	font-family:"Century Gothic";
+	text-decoration:none;
+	margin-left:3%;
+	margin-right:2%;
+	font-size:100%
+}
+#ABOUT{
+	margin-left:3%;
+	background-color:#E5E4E2;
+}
+#SERVICE #A {
+	background-color:#E5E4E2;
+	width:350px;
+	position:left top;
+	border-radius:20%;
+	margin-left:1%;
+}
+#PROJECTS{
+	background-color:#E5E4E2;
+	width:auto;
+	height:auto;
+}
+blog #d #spacing{
+	letter-spacing:1px;
+}
+#price #i{
+	background:red;
+	border-radius:5px;
+	width:300px;
+	width:240px;
+	height:300px;
+	text-decoration:none;
+	float:left;
+	margin-top:5%;
+	margin-left:3%;
+}
+#price #back{
+		background-color:#E5E4E2;
+width:240px;
+height:;
+	
+}
